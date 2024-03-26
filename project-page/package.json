@@ -9,7 +9,7 @@
     "build:html": "eleventy ",
     "build:css": "tailwindcss -i ./style.css -o ./_site/style.css",
     "dev:css": "tailwindcss -i ./style.css -o ./_site/style.css --watch",
-    "dev:html": "eleventy --serve"
+    "dev:html": "eleventy --serve --port=4000"
   },
   "keywords": [],
   "author": "",

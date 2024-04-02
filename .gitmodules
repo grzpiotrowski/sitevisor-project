@@ -1,0 +1,9 @@
+[submodule "sitevisor"]
+	path = sitevisor
+	url = https://github.com/grzpiotrowski/sitevisor
+[submodule "sitevisor-backend"]
+	path = sitevisor-backend
+	url = https://github.com/grzpiotrowski/sitevisor-backend
+[submodule "sitevisor-sensors"]
+	path = sitevisor-sensors
+	url = https://github.com/grzpiotrowski/sitevisor-sensors

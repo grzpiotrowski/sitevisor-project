@@ -1135,6 +1135,10 @@ html {
   height: 100%;
 }
 
+.h-screen {
+  height: 100vh;
+}
+
 .w-48 {
   width: 12rem;
 }
